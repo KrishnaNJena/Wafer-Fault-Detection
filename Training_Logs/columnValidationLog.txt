@@ -1,0 +1,24 @@
+2021-04-14/22:58:16		Column Length Validation Started!!
+2021-04-14/22:58:16		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2021-04-14/22:58:16		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2021-04-14/22:58:16		Column Length Validation Completed!!
+2021-04-14/23:05:00		Column Length Validation Started!!
+2021-04-14/23:05:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2021-04-14/23:05:00		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2021-04-14/23:05:01		Column Length Validation Completed!!
+2021-04-14/23:08:13		Column Length Validation Started!!
+2021-04-14/23:08:13		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2021-04-14/23:08:13		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2021-04-14/23:08:14		Column Length Validation Completed!!
+2021-04-14/23:11:20		Column Length Validation Started!!
+2021-04-14/23:11:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2021-04-14/23:11:20		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2021-04-14/23:11:21		Column Length Validation Completed!!
+2021-04-14/23:14:01		Column Length Validation Started!!
+2021-04-14/23:14:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2021-04-14/23:14:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2021-04-14/23:14:01		Column Length Validation Completed!!
+2021-04-14/23:30:29		Column Length Validation Started!!
+2021-04-14/23:30:29		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2021-04-14/23:30:29		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2021-04-14/23:30:30		Column Length Validation Completed!!

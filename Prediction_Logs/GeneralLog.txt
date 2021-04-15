@@ -1,0 +1,13 @@
+2021-04-14/23:52:55		GoodRaw directory deleted successfully!!!
+2021-04-14/23:52:55		Error while moving bad files to archive:: [WinError 267] The directory name is invalid: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2021-04-15/00:00:27		GoodRaw directory deleted successfully!!!
+2021-04-15/00:00:27		Error while moving bad files to archive:: [WinError 267] The directory name is invalid: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2021-04-15/00:04:25		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2021-04-15/00:05:40		GoodRaw directory deleted successfully!!!
+2021-04-15/00:05:40		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2021-04-15/00:10:12		GoodRaw directory deleted successfully!!!
+2021-04-15/00:10:12		Bad files moved to archive
+2021-04-15/00:10:12		Bad Raw Data Folder Deleted successfully!!
+2021-04-15/00:14:16		GoodRaw directory deleted successfully!!!
+2021-04-15/00:14:16		Bad files moved to archive
+2021-04-15/00:14:16		Bad Raw Data Folder Deleted successfully!!

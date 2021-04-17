@@ -63,13 +63,21 @@ All the Steps are done for validating data based on Schema File. If it matches C
 > App been deployed in Pivotal Cloud Foundry Platform.
 > Folder Structure:
 > ![image](https://user-images.githubusercontent.com/62303495/115119827-03258c00-9fc8-11eb-82b7-51b001a1ee09.png)
+\
 > requirements.txt file consists of all the packages that you need to deploy the app in the cloud.
+
 > ![image](https://user-images.githubusercontent.com/62303495/115119840-146e9880-9fc8-11eb-8e2b-166911d3a0a7.png)
+
 > main.py is the entry point of our application, where the flask server starts. Here we will be decoding a base64 to an image, and then we will be making predictions.
+
 > ![image](https://user-images.githubusercontent.com/62303495/115119866-294b2c00-9fc8-11eb-9930-28f8ca999599.png)
+
 > This is the obj.py file where the predictions take place based on the image we are giving input to the model.
+
 > ![image](https://user-images.githubusercontent.com/62303495/115119876-37994800-9fc8-11eb-85f2-fab69e4a5ee8.png)
+
 >  manifest.yml:- This file contains the instance configuration, app name, and build pack language
+
 >  ![image](https://user-images.githubusercontent.com/62303495/115119896-4e3f9f00-9fc8-11eb-8ced-0e5f10909b5f.png)
 > ![image](https://user-images.githubusercontent.com/62303495/115119903-53045300-9fc8-11eb-9978-acf9c947a8f5.png)
 > ![image](https://user-images.githubusercontent.com/62303495/115119930-77602f80-9fc8-11eb-9c92-654679142092.png)

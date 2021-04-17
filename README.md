@@ -74,11 +74,15 @@ All the Steps are done for validating data based on Schema File. If it matches C
 > ![image](https://user-images.githubusercontent.com/62303495/115119903-53045300-9fc8-11eb-9978-acf9c947a8f5.png)
 > ![image](https://user-images.githubusercontent.com/62303495/115119930-77602f80-9fc8-11eb-9c92-654679142092.png)
 > ![image](https://user-images.githubusercontent.com/62303495/115119935-7f1fd400-9fc8-11eb-8ea2-0922952c784f.png)
-> ![image](https://user-images.githubusercontent.com/62303495/115119947-8c3cc300-9fc8-11eb-9228-60edc67adeee.png)
+
 > ![image](https://user-images.githubusercontent.com/62303495/115119961-9232a400-9fc8-11eb-9ee1-a0d6e4f98f7e.png)
+
 > After the app is successfully deployed in the cloud, you will see the screen below with the route.
+
 > ![image](https://user-images.githubusercontent.com/62303495/115119974-a5de0a80-9fc8-11eb-8d8d-5968097a5467.png)
+
 > Open Postman and see the result.
+
 > ![image](https://user-images.githubusercontent.com/62303495/115119990-b3939000-9fc8-11eb-9cac-ddde3f1d6f8a.png)
 
 

@@ -61,9 +61,11 @@ All the Steps are done for validating data based on Schema File. If it matches C
 #### Deployment:
  
 > App been deployed in Pivotal Cloud Foundry Platform.
+
 > Folder Structure:
+
 > ![image](https://user-images.githubusercontent.com/62303495/115119827-03258c00-9fc8-11eb-82b7-51b001a1ee09.png)
-\
+
 > requirements.txt file consists of all the packages that you need to deploy the app in the cloud.
 
 > ![image](https://user-images.githubusercontent.com/62303495/115119840-146e9880-9fc8-11eb-8e2b-166911d3a0a7.png)

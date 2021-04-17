@@ -29,28 +29,28 @@ Name of the files, Length of Date value in FileName, Length of Time value in Fil
 #### Steps For Training Files: 
 
 
-* Data Validation:
-  - Name Validation
-  - Number Of Columns
-  - Name Of Columns
-  - Data Type of columns
-  - Null Value in Columns
+> Data Validation:
+ - Name Validation
+ - Number Of Columns
+ - Name Of Columns
+ - Data Type of columns
+ - Null Value in Columns
       
-* Data Insertion in Database
-  - Database Create & Connect
-  - Table Creation in the Database
-  - Data Inserted in the tab;e
+> Data Insertion in Database
+ - Database Create & Connect
+ - Table Creation in the Database
+ - Data Inserted in the tab;e
 
 All the Steps are done for validating data based on Schema File. If it matches Criteria it   moved to Good Data or else Bad Data Folder 
 
-* Model Training
-  - Data Exported from Database
-  - Data Preprocessing
-  - Cluster the data using K-Means
+> Model Training
+ - Data Exported from Database
+ - Data Preprocessing
+ - Cluster the data using K-Means
      
      ![image](https://user-images.githubusercontent.com/62303495/115118888-23068100-9fc3-11eb-9600-c6f836656374.png)
 
-  - Model Selection
+> Model Selection
   
         Once clusters are created, we find the best model for each cluster. We are using two algorithms, "Random Forest" and "XGBoost". For each cluster, both the algorithms are passed with the best parameters derived from GridSearch. We calculate the AUC scores for both models and select the model with the best score. Similarly, the model is selected for each cluster. All the models for every cluster are saved for use in prediction. 
      
